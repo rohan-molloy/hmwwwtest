@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Etc
-description: Etc
+description:
 background: '/img/bg-etc.jpg'
 ---
   

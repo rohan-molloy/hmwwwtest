@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-description: My Books.
+description:
 background: '/img/bg-books.jpg'
 ---
 ![](img/nightmusic.jpg)  
